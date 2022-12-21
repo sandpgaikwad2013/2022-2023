@@ -1,5 +1,5 @@
 //given a nth number print nth fibonacci number using dynamic programing
-public class P220 {
+public class FibonacciNumberWithDynamic {
     public static void main(String[] args) {
         int givenNumber = 9;
         int f[] = new int[givenNumber+2];

@@ -1,5 +1,5 @@
 //given n number print nth fibonacci number
-public class P320 {
+public class FibonacciWithArray {
     public static void main(String[] args) {
 
         int givenNumber = 9;

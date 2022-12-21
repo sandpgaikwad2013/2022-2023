@@ -1,8 +1,8 @@
 //given number nth print nth fibonacci number using recurrence
-public class P120 {
+public class FibonacciNumberRecursion {
     public static void main(String[] args) {
         System.out.println("welcome");
-       int output = fibonacciNumber(5);
+       int output = fibonacciNumber(9);
        System.out.println(output);
     }
 
