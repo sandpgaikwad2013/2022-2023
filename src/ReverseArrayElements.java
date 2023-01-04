@@ -1,7 +1,7 @@
 //reverse the array elements without extra space
 public class ReverseArrayElements {
     public static void main(String[] args) {
-        int input[] = {1,2,3,4,5};
+        int[] input = {1,2,3,4,5};
         System.out.println("original array");
         extracted(input);
         int start_index =0;
