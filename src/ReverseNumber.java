@@ -1,7 +1,7 @@
 //reverse the given number
 public class ReverseNumber {
     public static void main(String[] args) {
-        int number = 121;
+        int number = 1411;
      int  reverseNumber =  extracted(number);
      if (number==reverseNumber){
          System.out.println("Palindrome number "+number);
