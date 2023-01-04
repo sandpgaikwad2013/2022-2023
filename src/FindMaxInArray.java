@@ -9,6 +9,7 @@ public class FindMaxInArray {
         {
             if (max<input[i]){
                 max= input[i];
+
             }
         }
 
