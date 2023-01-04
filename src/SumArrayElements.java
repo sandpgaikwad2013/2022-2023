@@ -1,8 +1,11 @@
+//sum all the array elements
 public class SumArrayElements {
     public static void main(String[] args) {
-        // x = 1, y =2 x+y =z
-        int x = 5;
-        int y = 6;
-        System.out.println(x*y);
+        int input[] = {2,2,1,10,1};
+        int sum =0;
+        for (int i=0 ;i<input.length;i++){
+            sum= sum+ input[i];
+        }
+        System.out.println(sum);
      }
 }
